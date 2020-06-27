@@ -3,7 +3,7 @@ Backend de Empleados Escrito con NodeJS Express y MySQL
 
 # Instrucciones de despliegue
 
-1. Dentro del proyecto `/` hay un archivo SQL que contiene el script para crear la base de datos, sus tablas y rutinas. Es necesario ejecutar ese archivo en su servidor MySQL
+1. Dentro del proyecto `/` hay un archivo SQL `DumpEmpleados.sql` que contiene el script para crear la base de datos, sus tablas y rutinas. Es necesario ejecutar ese archivo en su servidor MySQL
 
 2. Ejecutar `npm install` para instalar las dependiencias requeridas
 
